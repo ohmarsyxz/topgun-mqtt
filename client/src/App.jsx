@@ -4,6 +4,9 @@ import { useEffect, useState } from "react";
 
 function App() {
   const [mqttData, setMqttData] = useState([]);
+  const [listeningTopic, setListeningTopic] = useState("");
+  const [inputTopic, setInputTopic] = useState("");
+  const [listening, setListening] = useState(false);
 
   const username = "username";
   const password = "password";
@@ -13,19 +16,21 @@ function App() {
       username: username,
       password: password,
     });
-    console.log("hello", client);
-    const topic = "test/topic";
+
+    console.log("Connecting to MQTT broker...");
 
     client.on("connect", () => {
       console.log("Connected to MQTT broker");
 
-      client.subscribe(topic, (err) => {
-        if (!err) {
-          console.log(`Subscribed to topic: ${topic}`);
-        } else {
-          console.error("Subscription error:", err);
-        }
-      });
+      if (listeningTopic) {
+        client.subscribe(listeningTopic, (err) => {
+          if (!err) {
+            console.log(`Subscribed to topic: ${listeningTopic}`);
+          } else {
+            console.error("Subscription error:", err);
+          }
+        });
+      }
     });
 
     client.on("message", (topic, message) => {
@@ -38,7 +43,15 @@ function App() {
     return () => {
       client.end();
     };
-  }, []);
+  }, [listeningTopic]);
+
+  const handleButtonClick = () => {
+    if (inputTopic.trim() !== "") {
+      setListeningTopic(inputTopic);
+      setListening(true);
+      setMqttData([]);
+    }
+  };
 
   return (
     <div
@@ -48,7 +61,20 @@ function App() {
         alignItems: "center",
       }}
     >
-      <h1>Hello world</h1>
+      <h1>
+        {listening ? `Listening to ${listeningTopic}` : "Set Listening Topic"}
+      </h1>
+      <input
+        type="text"
+        id="topic"
+        name="topic"
+        placeholder="Type your topic"
+        value={inputTopic}
+        onChange={(e) => setInputTopic(e.target.value)}
+      />
+      <button type="button" onClick={handleButtonClick}>
+        {listening ? "Listening ..." : "Start Listening"}
+      </button>
       {mqttData.map((data, index) => (
         <div key={index}>
           <p>{data.msg}</p>

@@ -1,7 +1,13 @@
 const mqtt = require("mqtt");
 
 // Connect to the MQTT broker
-const client = mqtt.connect("ws://172.21.236.6:9001");
+const username = "username";
+const password = "password";
+
+const client = mqtt.connect("ws://172.21.236.6:9001", {
+  username,
+  password,
+});
 const topic = "test/topic";
 
 // When a message is received

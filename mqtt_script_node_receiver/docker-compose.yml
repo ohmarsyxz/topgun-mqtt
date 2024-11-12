@@ -6,5 +6,5 @@ services:
     image: mqtt-script-node-receiver
     container_name: mqtt-client-receiver
     ports:
-      - "3000:3000"
+      - "3001:3001"
     restart: unless-stopped

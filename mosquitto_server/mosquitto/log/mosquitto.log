@@ -327,3 +327,312 @@ To fix this, use `chmod 0700 /mosquitto/config/password_file`.
 1731396556: Client mqttx_5c745a49 disconnected, not authorised.
 1731396567: New connection from 172.18.0.1:58026 on port 1883.
 1731396567: New client connected from 172.18.0.1:58026 as mqttx_5c745a49 (p5, c1, k60, u'username').
+1731397328: Client mqttx_5c745a49 has exceeded timeout, disconnecting.
+1731397333: New connection from 172.18.0.1:64880 on port 1883.
+1731397333: New client connected from 172.18.0.1:64880 as mqttx_5c745a49 (p5, c1, k60, u'username').
+1731397682: Client mqttx_5c745a49 has exceeded timeout, disconnecting.
+1731397686: New connection from 172.18.0.1:65180 on port 1883.
+1731397686: New client connected from 172.18.0.1:65180 as mqttx_5c745a49 (p5, c1, k60, u'username').
+1731397729: Client mqttjs_40c28abd closed its connection.
+1731397730: Client mqttjs_40c28abd closed its connection.
+1731397731: Client mqttjs_40c28abd closed its connection.
+1731397731: Client mqttjs_9f346165 closed its connection.
+1731397731: Client mqttjs_11fc2707 closed its connection.
+1731397732: Client mqttjs_11fc2707 closed its connection.
+1731397735: Client mqttjs_11fc2707 closed its connection.
+1731397736: Client mqttjs_11fc2707 closed its connection.
+1731397737: Client mqttjs_11fc2707 closed its connection.
+1731397738: Client mqttjs_11fc2707 closed its connection.
+1731397740: Client mqttjs_11fc2707 closed its connection.
+1731397742: Client mqttjs_11fc2707 closed its connection.
+1731397744: Client mqttjs_11fc2707 closed its connection.
+1731397746: Client mqttjs_11fc2707 closed its connection.
+1731397748: Client mqttjs_11fc2707 closed its connection.
+1731397750: Client mqttjs_11fc2707 closed its connection.
+1731397752: Client mqttjs_11fc2707 closed its connection.
+1731397754: Client mqttjs_11fc2707 closed its connection.
+1731397756: Client mqttjs_11fc2707 closed its connection.
+1731397758: Client mqttjs_11fc2707 closed its connection.
+1731397760: Client mqttjs_11fc2707 closed its connection.
+1731397762: Client mqttjs_11fc2707 closed its connection.
+1731397764: Client mqttjs_11fc2707 closed its connection.
+1731397766: Client mqttjs_11fc2707 closed its connection.
+1731397768: Client mqttjs_11fc2707 closed its connection.
+1731397770: Client mqttjs_11fc2707 closed its connection.
+1731397771: Client mqttjs_11fc2707 closed its connection.
+1731397772: Client mqttjs_11fc2707 closed its connection.
+1731397773: Client mqttjs_11fc2707 closed its connection.
+1731397774: Client mqttjs_11fc2707 closed its connection.
+1731397775: Client mqttjs_11fc2707 closed its connection.
+1731397776: Client mqttjs_11fc2707 closed its connection.
+1731397779: Client mqttjs_11fc2707 closed its connection.
+1731397781: Client mqttjs_11fc2707 closed its connection.
+1731397783: Client mqttjs_11fc2707 closed its connection.
+1731397785: Client mqttjs_11fc2707 closed its connection.
+1731397787: Client mqttjs_11fc2707 closed its connection.
+1731397788: Client mqttjs_b2fd6cbe closed its connection.
+1731397790: Client mqttjs_b2fd6cbe closed its connection.
+1731397791: Client mqttjs_b5d3eddc closed its connection.
+1731397792: Client mqttjs_b5d3eddc closed its connection.
+1731397793: Client mqttjs_b5d3eddc closed its connection.
+1731397794: Client mqttjs_b5d3eddc closed its connection.
+1731397795: Client mqttjs_b5d3eddc closed its connection.
+1731397796: Client mqttjs_b5d3eddc closed its connection.
+1731397797: Client mqttjs_b5d3eddc closed its connection.
+1731397798: Client mqttjs_b5d3eddc closed its connection.
+1731397800: Client mqttjs_b5d3eddc closed its connection.
+1731397801: Client mqttjs_b5d3eddc closed its connection.
+1731397802: Client mqttjs_b5d3eddc closed its connection.
+1731397803: Client mqttjs_b5d3eddc closed its connection.
+1731397804: Client mqttjs_b5d3eddc closed its connection.
+1731397806: Client mqttjs_b5d3eddc closed its connection.
+1731397808: Client mqttjs_b5d3eddc closed its connection.
+1731397810: Client mqttjs_b5d3eddc closed its connection.
+1731397812: Client mqttjs_b5d3eddc closed its connection.
+1731397813: Client mqttjs_b5d3eddc closed its connection.
+1731397814: Client mqttjs_bf356edc closed its connection.
+1731397815: Client mqttjs_bf356edc closed its connection.
+1731397816: Client mqttjs_bf356edc closed its connection.
+1731397817: Client mqttjs_bf356edc closed its connection.
+1731397818: Client mqttjs_bf356edc closed its connection.
+1731397819: Client mqttjs_bf356edc closed its connection.
+1731397821: Client mqttjs_bf356edc closed its connection.
+1731397822: Client mqttjs_bf356edc closed its connection.
+1731397823: Client mqttjs_bf356edc closed its connection.
+1731397824: Client mqttjs_bf356edc closed its connection.
+1731397825: Client mqttjs_bf356edc closed its connection.
+1731397826: Client mqttjs_bf356edc closed its connection.
+1731397827: Client mqttjs_bf356edc closed its connection.
+1731397828: Client mqttjs_bf356edc closed its connection.
+1731397829: Client mqttjs_bf356edc closed its connection.
+1731397831: Client mqttjs_bf356edc closed its connection.
+1731397832: Client mqttjs_bf356edc closed its connection.
+1731397833: Client mqttjs_bf356edc closed its connection.
+1731397834: Client mqttjs_bf356edc closed its connection.
+1731397835: Client mqttjs_bf356edc closed its connection.
+1731397836: Client mqttjs_bf356edc closed its connection.
+1731397837: Client mqttjs_bf356edc closed its connection.
+1731397838: Client mqttjs_bf356edc closed its connection.
+1731397840: Client mqttjs_bf356edc closed its connection.
+1731397841: Client mqttjs_bf356edc closed its connection.
+1731397842: Client mqttjs_bf356edc closed its connection.
+1731397844: Client mqttjs_bf356edc closed its connection.
+1731397846: Client mqttjs_bf356edc closed its connection.
+1731397848: Client mqttjs_bf356edc closed its connection.
+1731397850: Client mqttjs_bf356edc closed its connection.
+1731397852: Client mqttjs_bf356edc closed its connection.
+1731397854: Client mqttjs_bf356edc closed its connection.
+1731397856: Client mqttjs_bf356edc closed its connection.
+1731397858: Client mqttjs_bf356edc closed its connection.
+1731397860: Client mqttjs_bf356edc closed its connection.
+1731397861: Client mqttjs_a9bb28f3 closed its connection.
+1731397863: Client mqttjs_a9bb28f3 closed its connection.
+1731397865: Client <unknown> closed its connection.
+1731397865: Client <unknown> closed its connection.
+1731397866: Client <unknown> closed its connection.
+1731397866: Client mqttjs_26ce69bf closed its connection.
+1731397866: Client mqttjs_7fb539b2 closed its connection.
+1731397867: Client mqttjs_7fb539b2 closed its connection.
+1731397868: Client mqttjs_7fb539b2 closed its connection.
+1731397869: Client mqttjs_7fb539b2 closed its connection.
+1731397870: Client <unknown> closed its connection.
+1731397870: Client mqttjs_99102250 closed its connection.
+1731397871: Client mqttjs_ab8b2a68 closed its connection.
+1731397872: Client mqttjs_ab8b2a68 closed its connection.
+1731397873: Client mqttjs_ab8b2a68 closed its connection.
+1731397874: Client mqttjs_ab8b2a68 closed its connection.
+1731397875: Client mqttjs_ab8b2a68 closed its connection.
+1731397876: Client mqttjs_ab8b2a68 closed its connection.
+1731397878: Client mqttjs_ab8b2a68 closed its connection.
+1731397880: Client mqttjs_ab8b2a68 closed its connection.
+1731397881: Client mqttjs_ab8b2a68 closed its connection.
+1731397883: Client mqttjs_ab8b2a68 closed its connection.
+1731397885: Client mqttjs_ab8b2a68 closed its connection.
+1731397887: Client mqttjs_ab8b2a68 closed its connection.
+1731397889: Client mqttjs_ab8b2a68 closed its connection.
+1731397891: Client mqttjs_ab8b2a68 closed its connection.
+1731397893: Client mqttjs_ab8b2a68 closed its connection.
+1731397895: Client mqttjs_ab8b2a68 closed its connection.
+1731397897: Client mqttjs_ab8b2a68 closed its connection.
+1731397899: Client mqttjs_ab8b2a68 closed its connection.
+1731397901: Client mqttjs_ab8b2a68 closed its connection.
+1731397903: Client mqttjs_ab8b2a68 closed its connection.
+1731397905: Client mqttjs_ab8b2a68 closed its connection.
+1731397907: Client mqttjs_ab8b2a68 closed its connection.
+1731397909: Client mqttjs_ab8b2a68 closed its connection.
+1731397911: Client mqttjs_ab8b2a68 closed its connection.
+1731397913: Client mqttjs_ab8b2a68 closed its connection.
+1731397915: Client mqttjs_ab8b2a68 closed its connection.
+1731397917: Client mqttjs_ab8b2a68 closed its connection.
+1731397919: Client mqttjs_ab8b2a68 closed its connection.
+1731397921: Client mqttjs_ab8b2a68 closed its connection.
+1731397923: Client mqttjs_ab8b2a68 closed its connection.
+1731397925: Client mqttjs_ab8b2a68 closed its connection.
+1731397927: Client mqttjs_ab8b2a68 closed its connection.
+1731397929: Client mqttjs_ab8b2a68 closed its connection.
+1731397931: Client mqttjs_ab8b2a68 closed its connection.
+1731397933: Client mqttjs_ab8b2a68 closed its connection.
+1731397935: Client mqttjs_ab8b2a68 closed its connection.
+1731397937: Client mqttjs_ab8b2a68 closed its connection.
+1731397939: Client mqttjs_ab8b2a68 closed its connection.
+1731397941: Client mqttjs_ab8b2a68 closed its connection.
+1731397943: Client mqttjs_ab8b2a68 closed its connection.
+1731397945: Client mqttjs_ab8b2a68 closed its connection.
+1731397947: Client mqttjs_ab8b2a68 closed its connection.
+1731397949: Client mqttjs_ab8b2a68 closed its connection.
+1731397951: Client mqttjs_ab8b2a68 closed its connection.
+1731397953: Client mqttjs_ab8b2a68 closed its connection.
+1731397955: Client mqttjs_ab8b2a68 closed its connection.
+1731397957: Client mqttjs_ab8b2a68 closed its connection.
+1731397959: Client mqttjs_ab8b2a68 closed its connection.
+1731397961: Client mqttjs_ab8b2a68 closed its connection.
+1731397963: Client mqttjs_ab8b2a68 closed its connection.
+1731397965: Client mqttjs_ab8b2a68 closed its connection.
+1731397967: Client mqttjs_ab8b2a68 closed its connection.
+1731397969: Client mqttjs_ab8b2a68 closed its connection.
+1731397971: Client mqttjs_ab8b2a68 closed its connection.
+1731397973: Client mqttjs_ab8b2a68 closed its connection.
+1731397974: Client mqttjs_6b2b3588 closed its connection.
+1731397975: Client mqttjs_787d5329 closed its connection.
+1731397977: Client mqttjs_787d5329 closed its connection.
+1731397979: Client mqttjs_787d5329 closed its connection.
+1731397981: Client mqttjs_787d5329 closed its connection.
+1731397983: Client mqttjs_1cc42249 closed its connection.
+1731397985: Client mqttjs_1cc42249 closed its connection.
+1731397985: Client mqttjs_80c1e527 closed its connection.
+1731397987: Client mqttjs_80c1e527 closed its connection.
+1731397989: Client mqttjs_80c1e527 closed its connection.
+1731397991: Client mqttjs_80c1e527 closed its connection.
+1731397993: Client mqttjs_80c1e527 closed its connection.
+1731397995: Client mqttjs_80c1e527 closed its connection.
+1731397997: Client mqttjs_80c1e527 closed its connection.
+1731397999: Client mqttjs_80c1e527 closed its connection.
+1731398001: Client mqttjs_80c1e527 closed its connection.
+1731398003: Client mqttjs_80c1e527 closed its connection.
+1731398005: Client mqttjs_80c1e527 closed its connection.
+1731398007: Client mqttjs_80c1e527 closed its connection.
+1731398009: Client mqttjs_80c1e527 closed its connection.
+1731398009: Client mqttjs_090ed794 closed its connection.
+1731398010: Client mqttjs_50607de1 closed its connection.
+1731398012: Client mqttjs_50607de1 closed its connection.
+1731398014: Client mqttjs_50607de1 closed its connection.
+1731398016: Client mqttjs_50607de1 closed its connection.
+1731398017: Client mqttjs_8a92e5c0 closed its connection.
+1731398019: Client mqttjs_8a92e5c0 closed its connection.
+1731398021: Client mqttjs_8a92e5c0 closed its connection.
+1731398021: New client connected from 172.18.0.1:65528 as mqttjs_8f882803 (p2, c1, k60, u'username').
+1731398025: Client mqttjs_8f882803 closed its connection.
+1731398025: New client connected from 172.18.0.1:55788 as mqttjs_dcffe57d (p2, c1, k60, u'username').
+1731398025: New client connected from 172.18.0.1:55790 as mqttjs_5d76cd1f (p2, c1, k60, u'username').
+1731398120: Client mqttjs_dcffe57d closed its connection.
+1731398234: Client mqttjs_5d76cd1f closed its connection.
+1731398241: New client connected from 172.18.0.1:61320 as mqttjs_d861e2b9 (p2, c1, k60, u'username').
+1731398241: New client connected from 172.18.0.1:61334 as mqttjs_aadc8d82 (p2, c1, k60, u'username').
+1731398251: Client mqttjs_aadc8d82 disconnected.
+1731398252: New client connected from 172.18.0.1:57098 as mqttjs_f1cab5e9 (p2, c1, k60, u'username').
+1731398260: Client mqttjs_f1cab5e9 disconnected.
+1731398261: New client connected from 172.18.0.1:55304 as mqttjs_67dd073b (p2, c1, k60, u'username').
+1731398262: Client mqttjs_67dd073b disconnected.
+1731398263: New client connected from 172.18.0.1:55320 as mqttjs_475b9377 (p2, c1, k60, u'username').
+1731398270: Client mqttjs_475b9377 disconnected.
+1731398271: New client connected from 172.18.0.1:64144 as mqttjs_653a3bce (p2, c1, k60, u'username').
+1731398271: Client mqttjs_653a3bce disconnected.
+1731398272: New client connected from 172.18.0.1:64148 as mqttjs_50380a40 (p2, c1, k60, u'username').
+1731398286: Client mqttjs_50380a40 disconnected.
+1731398287: New client connected from 172.18.0.1:62152 as mqttjs_c7ef3a56 (p2, c1, k60, u'username').
+1731398288: Client mqttjs_c7ef3a56 disconnected.
+1731398289: New client connected from 172.18.0.1:62154 as mqttjs_9ab2b313 (p2, c1, k60, u'username').
+1731398294: Client mqttjs_9ab2b313 disconnected.
+1731398295: New client connected from 172.18.0.1:62164 as mqttjs_d5c50cbb (p2, c1, k60, u'username').
+1731398301: Client mqttjs_d5c50cbb disconnected.
+1731398302: New client connected from 172.18.0.1:63098 as mqttjs_6eb52721 (p2, c1, k60, u'username').
+1731398302: Client mqttjs_6eb52721 disconnected.
+1731398303: New client connected from 172.18.0.1:63112 as mqttjs_f8d5a716 (p2, c1, k60, u'username').
+1731398306: Client mqttjs_f8d5a716 disconnected.
+1731398307: New client connected from 172.18.0.1:59770 as mqttjs_c6025054 (p2, c1, k60, u'username').
+1731398314: Client mqttjs_c6025054 disconnected.
+1731398315: New client connected from 172.18.0.1:59774 as mqttjs_e3f4fc8c (p2, c1, k60, u'username').
+1731398333: Client mqttjs_e3f4fc8c disconnected.
+1731398334: New client connected from 172.18.0.1:61116 as mqttjs_e2640f5b (p2, c1, k60, u'username').
+1731398334: New client connected from 172.18.0.1:61118 as mqttjs_9a994c69 (p2, c1, k60, u'username').
+1731398335: Client mqttjs_9a994c69 disconnected.
+1731398336: New client connected from 172.18.0.1:62578 as mqttjs_92315dd9 (p2, c1, k60, u'username').
+1731398336: Client mqttjs_d861e2b9 closed its connection.
+1731398337: Client mqttjs_92315dd9 disconnected.
+1731398338: New client connected from 172.18.0.1:62590 as mqttjs_d7927c4e (p2, c1, k60, u'username').
+1731398338: New client connected from 172.18.0.1:62606 as mqttjs_262fe80f (p2, c1, k60, u'username').
+1731398341: Client mqttjs_262fe80f disconnected.
+1731398342: New client connected from 172.18.0.1:62618 as mqttjs_c576c16e (p2, c1, k60, u'username').
+1731398342: New client connected from 172.18.0.1:62634 as mqttjs_78963d84 (p2, c1, k60, u'username').
+1731398343: Client mqttjs_78963d84 disconnected.
+1731398344: New client connected from 172.18.0.1:62638 as mqttjs_f4b6fb42 (p2, c1, k60, u'username').
+1731398344: New client connected from 172.18.0.1:62644 as mqttjs_12672450 (p2, c1, k60, u'username').
+1731398349: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731398350: Client mqttjs_12672450 disconnected.
+1731398351: New client connected from 172.18.0.1:63306 as mqttjs_358340e7 (p2, c1, k60, u'username').
+1731398353: Client mqttjs_358340e7 disconnected.
+1731398354: New client connected from 172.18.0.1:63312 as mqttjs_6bae72e2 (p2, c1, k60, u'username').
+1731398361: Client mqttjs_6bae72e2 disconnected.
+1731398362: New client connected from 172.18.0.1:63588 as mqttjs_459431e2 (p2, c1, k60, u'username').
+1731398376: Client mqttjs_459431e2 disconnected.
+1731398377: New client connected from 172.18.0.1:62834 as mqttjs_3c703aaf (p2, c1, k60, u'username').
+1731398384: Client mqttjs_3c703aaf disconnected.
+1731398426: Client mqttjs_e2640f5b closed its connection.
+1731398432: Client mqttjs_d7927c4e closed its connection.
+1731398438: Client mqttjs_f4b6fb42 closed its connection.
+1731398438: Client mqttjs_c576c16e closed its connection.
+1731398574: New client connected from 172.18.0.1:64194 as mqttjs_672ad8c0 (p2, c1, k60, u'username').
+1731398574: New client connected from 172.18.0.1:64198 as mqttjs_98f1cb29 (p2, c1, k60, u'username').
+1731398587: Client mqttjs_98f1cb29 disconnected.
+1731398587: New client connected from 172.18.0.1:56064 as mqttjs_faa6aa89 (p2, c1, k60, u'username').
+1731398619: Client mqttjs_faa6aa89 disconnected.
+1731398619: New client connected from 172.18.0.1:58356 as mqttjs_3624f128 (p2, c1, k60, u'username').
+1731398666: Client mqttjs_672ad8c0 closed its connection.
+1731398683: Client mqttjs_3624f128 disconnected.
+1731398684: New client connected from 172.18.0.1:60936 as mqttjs_c731b15b (p2, c1, k60, u'username').
+1731398936: Client mqttjs_c731b15b disconnected.
+1731398937: New client connected from 172.18.0.1:64450 as mqttjs_ec536d54 (p2, c1, k60, u'username').
+1731398937: New client connected from 172.18.0.1:64464 as mqttjs_0979d53b (p2, c1, k60, u'username').
+1731398947: Client mqttjs_0979d53b disconnected.
+1731398948: New client connected from 172.18.0.1:58332 as mqttjs_0fda1bda (p2, c1, k60, u'username').
+1731398950: Client mqttjs_0fda1bda disconnected.
+1731398951: New client connected from 172.18.0.1:58348 as mqttjs_c4d8508e (p2, c1, k60, u'username').
+1731398952: Client mqttjs_c4d8508e disconnected.
+1731398953: New client connected from 172.18.0.1:58364 as mqttjs_82a6ec99 (p2, c1, k60, u'username').
+1731398956: Client mqttjs_82a6ec99 disconnected.
+1731398957: New client connected from 172.18.0.1:63770 as mqttjs_4c259540 (p2, c1, k60, u'username').
+1731398967: Client mqttjs_4c259540 disconnected.
+1731398968: New client connected from 172.18.0.1:65312 as mqttjs_2159164a (p2, c1, k60, u'username').
+1731398968: Client mqttjs_2159164a disconnected.
+1731398989: New client connected from 172.18.0.1:59586 as mqttjs_1fef65a2 (p2, c1, k60, u'username').
+1731398989: New client connected from 172.18.0.1:59596 as mqttjs_4cf1ff39 (p2, c1, k60, u'username').
+1731398989: Client mqttjs_4cf1ff39 disconnected.
+1731398990: New client connected from 172.18.0.1:59610 as mqttjs_c39dfe99 (p2, c1, k60, u'username').
+1731398996: Client mqttjs_c39dfe99 disconnected.
+1731398996: New client connected from 172.18.0.1:62442 as mqttjs_5cb6888d (p2, c1, k60, u'username').
+1731399032: Client mqttjs_ec536d54 closed its connection.
+1731399052: Client mqttjs_5cb6888d disconnected.
+1731399052: New client connected from 172.18.0.1:57432 as mqttjs_08e6d00d (p2, c1, k60, u'username').
+1731399054: Client mqttjs_1fef65a2 closed its connection.
+1731399054: Client mqttjs_08e6d00d closed its connection.
+1731399054: New client connected from 172.18.0.1:57444 as mqttjs_90db126a (p2, c1, k60, u'username').
+1731399054: New client connected from 172.18.0.1:57448 as mqttjs_0c17b402 (p2, c1, k60, u'username').
+1731399058: Client mqttjs_0c17b402 disconnected.
+1731399058: New client connected from 172.18.0.1:56564 as mqttjs_132487dd (p2, c1, k60, u'username').
+1731399079: Client mqttjs_132487dd disconnected.
+1731399079: New client connected from 172.18.0.1:57780 as mqttjs_6aeb6233 (p2, c1, k60, u'username').
+1731399146: Client mqttjs_90db126a closed its connection.
+1731399188: Client mqttjs_6aeb6233 disconnected.
+1731399189: New client connected from 172.18.0.1:63100 as mqttjs_4a01cfaf (p2, c1, k60, u'username').
+1731399189: Client mqttjs_4a01cfaf disconnected.
+1731399190: New client connected from 172.18.0.1:63114 as mqttjs_b19b2b71 (p2, c1, k60, u'username').
+1731399191: Client mqttjs_b19b2b71 disconnected.
+1731399191: New client connected from 172.18.0.1:63126 as mqttjs_65b1ffdf (p2, c1, k60, u'username').
+1731399191: Client mqttjs_65b1ffdf closed its connection.
+1731399191: New client connected from 172.18.0.1:63138 as mqttjs_3b047f23 (p2, c1, k60, u'username').
+1731399192: New client connected from 172.18.0.1:63146 as mqttjs_1c8e63a3 (p2, c1, k60, u'username').
+1731399195: Client mqttjs_1c8e63a3 disconnected.
+1731399195: New client connected from 172.18.0.1:57408 as mqttjs_04bc9dbc (p2, c1, k60, u'username').
+1731399206: Client mqttjs_04bc9dbc disconnected.
+1731399206: New client connected from 172.18.0.1:64868 as mqttjs_01f2cf5f (p2, c1, k60, u'username').
+1731399284: Client mqttjs_3b047f23 closed its connection.
