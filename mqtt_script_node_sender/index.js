@@ -19,10 +19,7 @@ client.on("connect", () => {
       // Publish a test message to the same topic
 
       setInterval(() => {
-        client.publish(
-          topic,
-          JSON.stringify({ msg: "Hello, MQTT from Node.js!" })
-        );
+        client.publish(topic, JSON.stringify({'msg': 'Hello Nodejs'}));
         console.log("Message published");
       }, 10000);
     } else {
