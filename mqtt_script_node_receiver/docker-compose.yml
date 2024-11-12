@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  mqtt-client:
+    build: .
+    image: mqtt-script-node-receiver
+    container_name: mqtt-client-receiver
+    ports:
+      - "3000:3000"
+    restart: unless-stopped

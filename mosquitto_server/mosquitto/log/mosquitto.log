@@ -1,0 +1,329 @@
+1731383436: mosquitto version 2.0.20 starting
+1731383436: Config loaded from /mosquitto/config/mosquitto.conf.
+1731383436: Opening ipv4 listen socket on port 1883.
+1731383436: Opening websockets listen socket on port 9001.
+1731383436: mosquitto version 2.0.20 running
+1731383478: New connection from 172.18.0.1:55864 on port 1883.
+1731383478: New client connected from 172.18.0.1:55864 as mqttx_0030be4d (p5, c1, k60).
+1731383633: New connection from 172.18.0.1:60086 on port 1883.
+1731383633: Client <unknown> disconnected due to protocol error.
+1731384662: New connection from 172.18.0.1:59270 on port 1883.
+1731384662: New client connected from 172.18.0.1:59270 as postman-mqtt-client-1731384662476 (p5, c0, k60).
+1731384703: Client postman-mqtt-client-1731384662476 disconnected.
+1731384817: New connection from 172.18.0.1:62578 on port 1883.
+1731384817: New client connected from 172.18.0.1:62578 as postman-mqtt-client-1731384817801 (p5, c0, k60).
+1731385237: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731385328: mosquitto version 2.0.20 terminating
+1731385328: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731385357: mosquitto version 2.0.20 starting
+1731385357: Config loaded from /mosquitto/config/mosquitto.conf.
+1731385357: Opening ipv4 listen socket on port 1883.
+1731385357: Opening websockets listen socket on port 9001.
+1731385357: mosquitto version 2.0.20 running
+1731385358: Expiring client postman-mqtt-client-1731384817801 due to timeout.
+1731385365: New connection from 172.18.0.1:57262 on port 1883.
+1731385365: New client connected from 172.18.0.1:57262 as mqttjs_2829c945 (p2, c1, k60).
+1731385370: Client mqttjs_2829c945 disconnected.
+1731385376: New connection from 172.18.0.1:55610 on port 1883.
+1731385376: New client connected from 172.18.0.1:55610 as mqttx_0030be4d (p5, c1, k60).
+1731385381: New connection from 172.18.0.1:61318 on port 1883.
+1731385381: New client connected from 172.18.0.1:61318 as mqttjs_661cb2dd (p2, c1, k60).
+1731385386: Client mqttjs_661cb2dd disconnected.
+1731386051: New connection from 172.18.0.1:57412 on port 1883.
+1731386051: New client connected from 172.18.0.1:57412 as auto-B4D8A028-3CF2-BC41-4C8D-B9A4CB2399D1 (p2, c1, k60).
+1731386061: Client auto-B4D8A028-3CF2-BC41-4C8D-B9A4CB2399D1 disconnected.
+1731386096: New connection from 172.18.0.1:63522 on port 1883.
+1731386096: New client connected from 172.18.0.1:63522 as auto-2E778E2A-7C76-BDD3-2231-B99AB7B57591 (p2, c1, k60).
+1731386106: Client auto-2E778E2A-7C76-BDD3-2231-B99AB7B57591 disconnected.
+1731386503: Client mqttx_0030be4d has exceeded timeout, disconnecting.
+1731386508: New connection from 172.18.0.1:63828 on port 1883.
+1731386508: New client connected from 172.18.0.1:63828 as mqttx_0030be4d (p5, c1, k60).
+1731386620: New connection from 172.18.0.1:61856 on port 1883.
+1731386620: New client connected from 172.18.0.1:61856 as auto-8C0802D9-2ADB-CFE0-47D4-D07CD61E8CEF (p2, c1, k60).
+1731386653: Client auto-8C0802D9-2ADB-CFE0-47D4-D07CD61E8CEF closed its connection.
+1731386655: New connection from 172.18.0.1:60718 on port 1883.
+1731386655: New client connected from 172.18.0.1:60718 as auto-CA9A5DB0-9F12-3C72-AB9B-DB00B2B4C16D (p2, c1, k60).
+1731386692: Client auto-CA9A5DB0-9F12-3C72-AB9B-DB00B2B4C16D closed its connection.
+1731387158: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731387211: Client mqttx_0030be4d has exceeded timeout, disconnecting.
+1731387717: New connection from 172.18.0.1:63210 on port 1883.
+1731387717: New client connected from 172.18.0.1:63210 as auto-77A00C49-8485-9E31-E264-4E6E8300D74E (p2, c1, k60).
+1731387750: mosquitto version 2.0.20 terminating
+1731387750: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731387778: mosquitto version 2.0.20 starting
+1731387778: Config loaded from /mosquitto/config/mosquitto.conf.
+1731387778: Opening ipv4 listen socket on port 1883.
+1731387778: Opening websockets listen socket on port 9001.
+1731387778: mosquitto version 2.0.20 running
+1731387825: mosquitto version 2.0.20 terminating
+1731387825: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731387853: mosquitto version 2.0.20 starting
+1731387853: Config loaded from /mosquitto/config/mosquitto.conf.
+1731387853: Opening ipv4 listen socket on port 1883.
+1731387853: Opening websockets listen socket on port 9001.
+1731387853: mosquitto version 2.0.20 running
+1731387886: New connection from 172.18.0.1:63988 on port 1883.
+1731387886: New client connected from 172.18.0.1:63988 as mqttx_0030be4d (p5, c1, k60).
+1731387893: mosquitto version 2.0.20 terminating
+1731387893: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731387896: mosquitto version 2.0.20 starting
+1731387896: Config loaded from /mosquitto/config/mosquitto.conf.
+1731387896: Opening ipv4 listen socket on port 1883.
+1731387896: Opening websockets listen socket on port 9001.
+1731387896: mosquitto version 2.0.20 running
+1731387898: New connection from 172.18.0.1:57112 on port 1883.
+1731387898: New client connected from 172.18.0.1:57112 as mqttx_0030be4d (p5, c1, k60).
+1731388622: Client mqttx_0030be4d has exceeded timeout, disconnecting.
+1731388627: New connection from 172.18.0.1:60164 on port 1883.
+1731388627: New client connected from 172.18.0.1:60164 as mqttx_0030be4d (p5, c1, k60).
+1731388680: New connection from 172.18.0.1:60658 on port 1883.
+1731388680: New client connected from 172.18.0.1:60658 as auto-FB7DDBA8-9717-E190-3EA1-598FBE1CA9F2 (p2, c1, k60).
+1731388731: Client auto-FB7DDBA8-9717-E190-3EA1-598FBE1CA9F2 closed its connection.
+1731388935: Client mqttx_0030be4d has exceeded timeout, disconnecting.
+1731388939: New connection from 172.18.0.1:60084 on port 1883.
+1731388939: New client connected from 172.18.0.1:60084 as mqttx_0030be4d (p5, c1, k60).
+1731390757: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731390757: Client mqttx_0030be4d has exceeded timeout, disconnecting.
+1731390762: New connection from 172.18.0.1:62852 on port 1883.
+1731390762: New client connected from 172.18.0.1:62852 as mqttx_0030be4d (p5, c1, k60).
+1731391399: Client mqttx_0030be4d has exceeded timeout, disconnecting.
+1731391404: New connection from 172.18.0.1:61314 on port 1883.
+1731391404: New client connected from 172.18.0.1:61314 as mqttx_0030be4d (p5, c1, k60).
+1731391533: New connection from 172.18.0.1:60750 on port 1883.
+1731391533: New client connected from 172.18.0.1:60750 as auto-8719C850-3581-FE89-F4A2-572080EF6208 (p2, c1, k60).
+1731391572: Client mqttx_0030be4d disconnected.
+1731391579: New connection from 172.18.0.1:63482 on port 1883.
+1731391579: New client connected from 172.18.0.1:63482 as mqttx_0030be4d (p5, c1, k60).
+1731391981: Client mqttx_0030be4d has exceeded timeout, disconnecting.
+1731391986: New connection from 172.18.0.1:63496 on port 1883.
+1731391986: New client connected from 172.18.0.1:63496 as mqttx_0030be4d (p5, c1, k60).
+1731392445: Client auto-8719C850-3581-FE89-F4A2-572080EF6208 closed its connection.
+1731392447: mosquitto version 2.0.20 terminating
+1731392447: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731392541: mosquitto version 2.0.20 starting
+1731392541: Config loaded from /mosquitto/config/mosquitto.conf.
+1731392541: Opening ipv4 listen socket on port 1883.
+1731392541: Opening websockets listen socket on port 9001.
+1731392541: mosquitto version 2.0.20 running
+1731392547: New connection from 172.18.0.1:62364 on port 1883.
+1731392547: New client connected from 172.18.0.1:62364 as mqttx_0030be4d (p5, c1, k60).
+1731392668: Client mqttx_0030be4d disconnected.
+1731392669: New connection from 172.18.0.1:62484 on port 1883.
+1731392669: New client connected from 172.18.0.1:62484 as mqttx_0030be4d (p5, c1, k60).
+1731392671: Client mqttx_0030be4d disconnected.
+1731392679: New connection from 172.18.0.1:59742 on port 1883.
+1731392679: New client connected from 172.18.0.1:59742 as mqttx_0030be4d (p5, c1, k60).
+1731392695: New connection from 172.18.0.1:56328 on port 1883.
+1731392695: New client connected from 172.18.0.1:56328 as mqttjs_37a81135 (p2, c1, k60).
+1731392700: Client mqttjs_37a81135 disconnected.
+1731392861: Client mqttx_0030be4d disconnected.
+1731392870: New connection from 172.18.0.1:63784 on port 1883.
+1731392870: New client connected from 172.18.0.1:63784 as mqttx_0030be4d (p5, c1, k60).
+1731392887: New connection from 172.18.0.1:56296 on port 1883.
+1731392887: New client connected from 172.18.0.1:56296 as mqttjs_a6378f9c (p2, c1, k60).
+1731392909: Client mqttjs_a6378f9c closed its connection.
+1731392944: New connection from 172.18.0.1:58176 on port 1883.
+1731392944: New client connected from 172.18.0.1:58176 as mqttjs_a3fae267 (p2, c1, k60).
+1731392964: Client mqttjs_a3fae267 closed its connection.
+1731393265: New connection from 172.18.0.1:55712 on port 1883.
+1731393265: New client connected from 172.18.0.1:55712 as mqttjs_a6ec1944 (p2, c1, k60).
+1731393305: Client mqttjs_a6ec1944 closed its connection.
+1731393708: New connection from 172.18.0.1:56146 on port 1883.
+1731393708: New client connected from 172.18.0.1:56146 as mqttjs_08f8dbb2 (p2, c1, k60).
+1731393818: Client mqttjs_08f8dbb2 closed its connection.
+1731393825: New client connected from 172.18.0.1:56970 as mqttjs_0453b857 (p2, c1, k60).
+1731393825: Client mqttjs_0453b857 closed its connection.
+1731393844: New client connected from 172.18.0.1:58100 as mqttjs_df7d7558 (p2, c1, k60).
+1731393844: Client mqttjs_df7d7558 closed its connection.
+1731393864: New client connected from 172.18.0.1:56666 as mqttjs_1c547823 (p2, c1, k60).
+1731393929: Client mqttjs_1c547823 closed its connection.
+1731393931: New client connected from 172.18.0.1:62624 as mqttjs_1e76bff4 (p2, c1, k60).
+1731393968: New connection from 172.18.0.1:61676 on port 1883.
+1731393968: New client connected from 172.18.0.1:61676 as mqttjs_33702702 (p2, c1, k60).
+1731394169: Client mqttjs_33702702 closed its connection.
+1731394181: Client mqttjs_1e76bff4 closed its connection.
+1731394339: New connection from 172.18.0.1:57932 on port 1883.
+1731394339: New client connected from 172.18.0.1:57932 as mqttjs_15d024c9 (p2, c1, k60).
+1731394342: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731394388: Client mqttjs_15d024c9 closed its connection.
+1731394515: Client mqttx_0030be4d has exceeded timeout, disconnecting.
+1731394521: New connection from 172.18.0.1:59160 on port 1883.
+1731394521: New client connected from 172.18.0.1:59160 as mqttx_0030be4d (p5, c1, k60).
+1731394691: mosquitto version 2.0.20 terminating
+1731394691: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731394709: mosquitto version 2.0.20 starting
+1731394709: Config loaded from /mosquitto/config/mosquitto.conf.
+1731394709: Error: Unable to open pwfile "/mosquitto/config/password_file".
+1731394709: Error opening password file "/mosquitto/config/password_file".
+1731394745: mosquitto version 2.0.20 starting
+1731394745: Config loaded from /mosquitto/config/mosquitto.conf.
+1731394745: Error: Unable to open pwfile "/mosquitto/config/password_file".
+1731394745: Error opening password file "/mosquitto/config/password_file".
+1731394801: mosquitto version 2.0.20 starting
+1731394801: Config loaded from /mosquitto/config/mosquitto.conf.
+1731394801: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731394801: Opening ipv4 listen socket on port 1883.
+1731394801: Opening websockets listen socket on port 9001.
+1731394801: mosquitto version 2.0.20 running
+1731394876: New connection from 172.18.0.1:59474 on port 1883.
+1731394876: Client mqttx_0030be4d disconnected, not authorised.
+1731394908: mosquitto version 2.0.20 starting
+1731394908: Config loaded from /mosquitto/config/mosquitto.conf.
+1731394908: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731394908: Opening ipv4 listen socket on port 1883.
+1731394908: Opening websockets listen socket on port 9001.
+1731394908: mosquitto version 2.0.20 running
+1731394915: New connection from 172.18.0.1:55066 on port 1883.
+1731394915: Client mqttx_0030be4d disconnected, not authorised.
+1731394925: New connection from 172.18.0.1:58082 on port 1883.
+1731394925: Client mqttx_0030be4d disconnected, not authorised.
+1731394944: New connection from 172.18.0.1:65376 on port 1883.
+1731394944: Client mqttx_0030be4d disconnected, not authorised.
+1731395050: mosquitto version 2.0.20 terminating
+1731395050: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731395050: mosquitto version 2.0.20 starting
+1731395050: Config loaded from /mosquitto/config/mosquitto.conf.
+1731395050: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731395050: Opening ipv4 listen socket on port 1883.
+1731395050: Opening websockets listen socket on port 9001.
+1731395050: mosquitto version 2.0.20 running
+1731395050: New connection from 172.18.0.1:59594 on port 1883.
+1731395050: Client <unknown> closed its connection.
+1731395059: New connection from 172.18.0.1:61644 on port 1883.
+1731395059: New client connected from 172.18.0.1:61644 as mqttx_0030be4d (p5, c1, k60, u'username').
+1731395063: Client mqttx_0030be4d disconnected.
+1731395068: New connection from 172.18.0.1:55598 on port 1883.
+1731395068: New client connected from 172.18.0.1:55598 as mqttx_0030be4d (p5, c1, k60).
+1731395090: mosquitto version 2.0.20 starting
+1731395090: Config loaded from /mosquitto/config/mosquitto.conf.
+1731395090: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731395090: Opening ipv4 listen socket on port 1883.
+1731395090: Opening websockets listen socket on port 9001.
+1731395090: mosquitto version 2.0.20 running
+1731395095: New connection from 172.18.0.1:58070 on port 1883.
+1731395095: New client connected from 172.18.0.1:58070 as mqttx_0030be4d (p5, c1, k60).
+1731395120: mosquitto version 2.0.20 terminating
+1731395120: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731395138: mosquitto version 2.0.20 starting
+1731395138: Config loaded from /mosquitto/config/mosquitto.conf.
+1731395138: Error: Unable to open pwfile "/mosquitto/config/password_file".
+1731395138: Error opening password file "/mosquitto/config/password_file".
+1731395165: mosquitto version 2.0.20 starting
+1731395165: Config loaded from /mosquitto/config/mosquitto.conf.
+1731395165: Error: Unable to open pwfile "/mosquitto/password_file".
+1731395165: Error opening password file "/mosquitto/password_file".
+1731395216: mosquitto version 2.0.20 starting
+1731395216: Config loaded from /mosquitto/config/mosquitto.conf.
+1731395216: Error: Unable to open pwfile "/mosquitto/password_file".
+1731395216: Error opening password file "/mosquitto/password_file".
+1731395233: mosquitto version 2.0.20 starting
+1731395233: Config loaded from /mosquitto/config/mosquitto.conf.
+1731395233: Error: Unable to open pwfile "/mosquitto/password_file".
+1731395233: Error opening password file "/mosquitto/password_file".
+1731395327: mosquitto version 2.0.20 starting
+1731395327: Config loaded from /mosquitto/config/mosquitto.conf.
+1731395327: Error: Unable to open pwfile "/mosquitto/passwd_file".
+1731395327: Error opening password file "/mosquitto/passwd_file".
+1731395465: mosquitto version 2.0.20 starting
+1731395465: Config loaded from /mosquitto/config/mosquitto.conf.
+1731395465: Warning: File /mosquitto/passwd_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/passwd_file`.
+1731395465: Error: /mosquitto/passwd_file is not a file.
+1731395465: Error: Unable to open pwfile "/mosquitto/passwd_file".
+1731395465: Error opening password file "/mosquitto/passwd_file".
+1731395484: mosquitto version 2.0.20 starting
+1731395484: Config loaded from /mosquitto/config/mosquitto.conf.
+1731395484: Warning: File /mosquitto/passwd_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/passwd_file`.
+1731395484: Error: /mosquitto/passwd_file is not a file.
+1731395484: Error: Unable to open pwfile "/mosquitto/passwd_file".
+1731395484: Error opening password file "/mosquitto/passwd_file".
+1731395687: mosquitto version 2.0.20 starting
+1731395687: Config loaded from /mosquitto/config/mosquitto.conf.
+1731395687: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731395687: Opening ipv4 listen socket on port 1883.
+1731395687: Opening websockets listen socket on port 9001.
+1731395687: mosquitto version 2.0.20 running
+1731395753: mosquitto version 2.0.20 terminating
+1731395753: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731395754: mosquitto version 2.0.20 starting
+1731395754: Config loaded from /mosquitto/config/mosquitto.conf.
+1731395754: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731395754: Opening ipv4 listen socket on port 1883.
+1731395754: Opening websockets listen socket on port 9001.
+1731395754: mosquitto version 2.0.20 running
+1731395759: New connection from 172.18.0.1:60532 on port 1883.
+1731395759: New client connected from 172.18.0.1:60532 as mqttx_0030be4d (p5, c1, k60).
+1731395762: Client mqttx_0030be4d disconnected.
+1731395778: New connection from 172.18.0.1:59362 on port 1883.
+1731395778: New client connected from 172.18.0.1:59362 as mqttx_0030be4d (p5, c1, k60).
+1731395846: mosquitto version 2.0.20 starting
+1731395846: Config loaded from /mosquitto/config/mosquitto.conf.
+1731395846: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731395846: Opening ipv4 listen socket on port 1883.
+1731395846: Opening websockets listen socket on port 9001.
+1731395846: mosquitto version 2.0.20 running
+1731395853: New connection from 172.18.0.1:60400 on port 1883.
+1731395853: New client connected from 172.18.0.1:60400 as mqttx_0030be4d (p5, c1, k60).
+1731395859: Client mqttx_0030be4d disconnected.
+1731395869: New connection from 172.18.0.1:61080 on port 1883.
+1731395869: New client connected from 172.18.0.1:61080 as mqttx_0030be4d (p5, c1, k60, u'username').
+1731395872: Client mqttx_0030be4d disconnected.
+1731395890: New connection from 172.18.0.1:58476 on port 1883.
+1731395890: New client connected from 172.18.0.1:58476 as mqttx_5c745a49 (p5, c1, k60).
+1731396065: mosquitto version 2.0.20 starting
+1731396065: Config loaded from /mosquitto/config/mosquitto.conf.
+1731396065: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731396065: Opening ipv4 listen socket on port 1883.
+1731396065: Opening websockets listen socket on port 9001.
+1731396065: mosquitto version 2.0.20 running
+1731396074: New connection from 172.18.0.1:64036 on port 1883.
+1731396074: New client connected from 172.18.0.1:64036 as mqttx_5c745a49 (p5, c1, k60).
+1731396079: Client mqttx_5c745a49 disconnected.
+1731396191: mosquitto version 2.0.20 terminating
+1731396191: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731396192: mosquitto version 2.0.20 starting
+1731396192: Config loaded from /mosquitto/config/mosquitto.conf.
+1731396192: Opening ipv4 listen socket on port 1883.
+1731396192: Opening websockets listen socket on port 9001.
+1731396192: mosquitto version 2.0.20 running
+1731396203: New connection from 172.18.0.1:60642 on port 1883.
+1731396203: New client connected from 172.18.0.1:60642 as mqttx_5c745a49 (p5, c1, k60).
+1731396259: mosquitto version 2.0.20 terminating
+1731396259: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731396259: mosquitto version 2.0.20 starting
+1731396259: Config loaded from /mosquitto/config/mosquitto.conf.
+1731396259: Opening ipv4 listen socket on port 1883.
+1731396259: Opening websockets listen socket on port 9001.
+1731396259: mosquitto version 2.0.20 running
+1731396264: New connection from 172.18.0.1:59510 on port 1883.
+1731396264: New client connected from 172.18.0.1:59510 as mqttx_5c745a49 (p5, c1, k60).
+1731396295: mosquitto version 2.0.20 starting
+1731396295: Config loaded from /mosquitto/config/mosquitto.conf.
+1731396295: Opening ipv4 listen socket on port 1883.
+1731396295: Opening websockets listen socket on port 9001.
+1731396295: mosquitto version 2.0.20 running
+1731396315: New connection from 172.18.0.1:58962 on port 1883.
+1731396315: New client connected from 172.18.0.1:58962 as mqttx_5c745a49 (p5, c1, k60).
+1731396529: mosquitto version 2.0.20 starting
+1731396529: Config loaded from /mosquitto/config/mosquitto.conf.
+1731396529: Opening ipv4 listen socket on port 1883.
+1731396529: Opening websockets listen socket on port 9001.
+1731396529: mosquitto version 2.0.20 running
+1731396548: mosquitto version 2.0.20 starting
+1731396548: Config loaded from /mosquitto/config/mosquitto.conf.
+1731396548: Opening ipv4 listen socket on port 1883.
+1731396548: Opening websockets listen socket on port 9001.
+1731396548: mosquitto version 2.0.20 running
+1731396556: New connection from 172.18.0.1:63022 on port 1883.
+1731396556: Client mqttx_5c745a49 disconnected, not authorised.
+1731396567: New connection from 172.18.0.1:58026 on port 1883.
+1731396567: New client connected from 172.18.0.1:58026 as mqttx_5c745a49 (p5, c1, k60, u'username').
