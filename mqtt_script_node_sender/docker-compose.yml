@@ -3,7 +3,6 @@ version: "3.8"
 services:
   mqtt-client:
     build: .
-    image: mqtt-script-node-sender
     container_name: mqtt-client-sender
     ports:
       - "3000:3000"

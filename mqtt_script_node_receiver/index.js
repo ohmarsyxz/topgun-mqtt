@@ -1,39 +1,17 @@
 const mqtt = require("mqtt");
-const { Client } = require("pg");
+const express = require("express");
+const mongoose = require("mongoose");
+const messageModel = require("./Models/messageModel");
 
 // Connect to the MQTT broker
 const username = "username";
 const password = "password";
 
-const client = mqtt.connect("ws://172.21.236.6:9001", {
+const client = mqtt.connect("ws://172.21.236.10:9001", {
   username,
   password,
 });
 const topic = "test/topic";
-const pgClient = new Client({
-  user: "user",
-  host: "db",
-  database: "mqtt_db",
-  password: "password",
-  port: 5432,
-});
-pgClient.connect();
-
-pgClient.query(
-  `
-  CREATE TABLE IF NOT EXISTS messages (
-    id SERIAL PRIMARY KEY,
-    msg TEXT
-  )
-`,
-  (err, res) => {
-    if (err) {
-      console.error("Error creating table:", err);
-    } else {
-      console.log("Table is ready");
-    }
-  }
-);
 
 // When a message is received
 client.on("connect", () => {
@@ -50,17 +28,39 @@ client.on("connect", () => {
     console.log(`Message in topic ${topic} is: ${message}`);
 
     const data = JSON.parse(message.toString());
-    pgClient
-      .query("INSERT INTO messages (msg) VALUES ($1)", [data.msg])
-      .then((res) => {
-        console.log("Data inserted successfully:", res);
-      })
-      .catch((err) => {
-        console.error("Error inserting data:", err);
-      });
+    console.log("Data:", data);
+
+    const exampleEntry = new messageModel(data);
+    exampleEntry
+      .save()
+      .then(() => console.log("Data saved"))
+      .catch((err) => console.error("Save error:", err));
+
   });
 });
-// Handle errors
-client.on("error", (err) => {
-  console.error("Connection error:", err);
+
+// connect to mongodb
+const app = express();
+
+app.use(express.json());
+
+app.get("/", (req, res) => {
+  res.send("Welcome our chat app APIs");
+  
+
 });
+
+const port = 5001;
+const uri = "mongodb://seeit2024:seeit2024@localhost:27017/";
+
+app.listen(port, "0.0.0.0", (req, res) => {
+  console.log(`Server running on port: ${port}`);
+});
+
+mongoose
+  .connect(uri, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  })
+  .then(() => console.log("MongoDB connection established"))
+  .catch((err) => console.log("MongoDB connection failed: ", err.message));

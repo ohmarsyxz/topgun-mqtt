@@ -4,7 +4,7 @@ const username = "username";
 const password = "password";
 
 // Connect to the MQTT broker
-const client = mqtt.connect("mqtt://172.21.236.6:1883", { username, password });
+const client = mqtt.connect("mqtt://172.21.236.10:1883", { username, password });
 
 // When the client connects
 client.on("connect", () => {

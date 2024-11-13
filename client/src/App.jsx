@@ -12,7 +12,7 @@ function App() {
   const password = "password";
 
   useEffect(() => {
-    const client = mqtt.connect("ws://172.21.236.6:9001", {
+    const client = mqtt.connect("ws://172.21.236.10:9001", {
       username: username,
       password: password,
     });

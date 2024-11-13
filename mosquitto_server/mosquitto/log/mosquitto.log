@@ -755,3 +755,514 @@ To fix this, use `chmod 0700 /mosquitto/config/password_file`.
 1731405203: Client mqttjs_9a644d30 closed its connection.
 1731405203: Client mqttjs_24c21276 closed its connection.
 1731405203: Client mqttjs_08d97986 closed its connection.
+1731423314: mosquitto version 2.0.20 starting
+1731423314: Config loaded from /mosquitto/config/mosquitto.conf.
+1731423314: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731423314: Opening ipv4 listen socket on port 1883.
+1731423314: Opening websockets listen socket on port 9001.
+1731423314: mosquitto version 2.0.20 running
+1731423367: New connection from 172.18.0.1:62998 on port 1883.
+1731423367: New client connected from 172.18.0.1:62998 as mqttjs_80911f9e (p2, c1, k60, u'username').
+1731423819: New client connected from 172.18.0.1:56656 as mqttjs_e88eb7f8 (p2, c1, k60, u'username').
+1731423828: Client mqttjs_e88eb7f8 closed its connection.
+1731423828: New client connected from 172.18.0.1:56668 as mqttjs_c6146497 (p2, c1, k60, u'username').
+1731423838: Client mqttjs_c6146497 closed its connection.
+1731423838: New client connected from 172.18.0.1:61006 as mqttjs_8019f99b (p2, c1, k60, u'username').
+1731423848: Client mqttjs_8019f99b closed its connection.
+1731423849: New client connected from 172.18.0.1:63720 as mqttjs_1f5da153 (p2, c1, k60, u'username').
+1731423858: Client mqttjs_1f5da153 closed its connection.
+1731423859: New client connected from 172.18.0.1:62006 as mqttjs_877b270d (p2, c1, k60, u'username').
+1731423866: New connection from 172.18.0.1:60670 on port 1883.
+1731423866: New client connected from 172.18.0.1:60670 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731423868: Client mqttjs_877b270d closed its connection.
+1731423870: New client connected from 172.18.0.1:64944 as mqttjs_fd562d76 (p2, c1, k60, u'username').
+1731423871: Client mqttx_4c2f16e0 disconnected.
+1731423875: New connection from 172.18.0.1:60616 on port 1883.
+1731423875: Client mqttx_4c2f16e0 disconnected, not authorised.
+1731423878: Client mqttjs_fd562d76 closed its connection.
+1731423882: New client connected from 172.18.0.1:63004 as mqttjs_f49d27e2 (p2, c1, k60, u'username').
+1731423888: Client mqttjs_f49d27e2 closed its connection.
+1731423895: New client connected from 172.18.0.1:62714 as mqttjs_85dd1ba2 (p2, c1, k60, u'username').
+1731423898: Client mqttjs_85dd1ba2 closed its connection.
+1731423898: New connection from 172.18.0.1:61792 on port 1883.
+1731423898: Client mqttx_4c2f16e0 disconnected, not authorised.
+1731423903: New connection from 172.18.0.1:63466 on port 1883.
+1731423903: New client connected from 172.18.0.1:63466 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731423911: New client connected from 172.18.0.1:63668 as mqttjs_9f699c73 (p2, c1, k60, u'username').
+1731423918: Client mqttjs_9f699c73 closed its connection.
+1731423944: New client connected from 172.18.0.1:55400 as mqttjs_96e7d2be (p2, c1, k60, u'username').
+1731423948: Client mqttjs_96e7d2be closed its connection.
+1731424000: New client connected from 172.18.0.1:62408 as mqttjs_0c193215 (p2, c1, k60, u'username').
+1731424008: Client mqttjs_0c193215 closed its connection.
+1731424068: New client connected from 172.18.0.1:62722 as mqttjs_f14694db (p2, c1, k60, u'username').
+1731424078: Client mqttjs_f14694db closed its connection.
+1731424079: New client connected from 172.18.0.1:57490 as mqttjs_5e4e7893 (p2, c1, k60, u'username').
+1731424088: Client mqttjs_5e4e7893 closed its connection.
+1731424089: New client connected from 172.18.0.1:60980 as mqttjs_ee36147d (p2, c1, k60, u'username').
+1731424098: Client mqttjs_ee36147d closed its connection.
+1731424099: New client connected from 172.18.0.1:62236 as mqttjs_ae097165 (p2, c1, k60, u'username').
+1731424108: Client mqttjs_ae097165 closed its connection.
+1731424109: New client connected from 172.18.0.1:64060 as mqttjs_1e75b8ac (p2, c1, k60, u'username').
+1731424118: Client mqttjs_1e75b8ac closed its connection.
+1731424120: New client connected from 172.18.0.1:64902 as mqttjs_838398a3 (p2, c1, k60, u'username').
+1731424128: Client mqttjs_838398a3 closed its connection.
+1731424132: New client connected from 172.18.0.1:63756 as mqttjs_9f6d8727 (p2, c1, k60, u'username').
+1731424138: Client mqttjs_9f6d8727 closed its connection.
+1731424145: New client connected from 172.18.0.1:60354 as mqttjs_88dab191 (p2, c1, k60, u'username').
+1731424148: Client mqttjs_88dab191 closed its connection.
+1731424161: New client connected from 172.18.0.1:60376 as mqttjs_b0b841d1 (p2, c1, k60, u'username').
+1731424168: Client mqttjs_b0b841d1 closed its connection.
+1731424194: New client connected from 172.18.0.1:56898 as mqttjs_72755c29 (p2, c1, k60, u'username').
+1731424198: Client mqttjs_72755c29 closed its connection.
+1731424250: New client connected from 172.18.0.1:58038 as mqttjs_3be5fa59 (p2, c1, k60, u'username').
+1731424258: Client mqttjs_3be5fa59 closed its connection.
+1731424319: New client connected from 172.18.0.1:60860 as mqttjs_57dd068a (p2, c1, k60, u'username').
+1731424328: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731424328: Client mqttjs_57dd068a closed its connection.
+1731424332: New connection from 172.18.0.1:59202 on port 1883.
+1731424332: New client connected from 172.18.0.1:59202 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731424389: New client connected from 172.18.0.1:64186 as mqttjs_c5d5c469 (p2, c1, k60, u'username').
+1731424398: Client mqttjs_c5d5c469 closed its connection.
+1731424399: New client connected from 172.18.0.1:57406 as mqttjs_05d27ae7 (p2, c1, k60, u'username').
+1731424408: Client mqttjs_05d27ae7 closed its connection.
+1731424409: New client connected from 172.18.0.1:63938 as mqttjs_7baaf416 (p2, c1, k60, u'username').
+1731424418: Client mqttjs_7baaf416 closed its connection.
+1731424419: New client connected from 172.18.0.1:65212 as mqttjs_25dc258e (p2, c1, k60, u'username').
+1731424428: Client mqttjs_25dc258e closed its connection.
+1731424430: New client connected from 172.18.0.1:56196 as mqttjs_15ca0fe0 (p2, c1, k60, u'username').
+1731424438: Client mqttjs_15ca0fe0 closed its connection.
+1731424440: New client connected from 172.18.0.1:62486 as mqttjs_c9cdd37a (p2, c1, k60, u'username').
+1731424448: Client mqttjs_c9cdd37a closed its connection.
+1731424452: New client connected from 172.18.0.1:58300 as mqttjs_ccab3a02 (p2, c1, k60, u'username').
+1731424458: Client mqttjs_ccab3a02 closed its connection.
+1731424465: New client connected from 172.18.0.1:57882 as mqttjs_3f40621c (p2, c1, k60, u'username').
+1731424468: Client mqttjs_3f40621c closed its connection.
+1731424482: New client connected from 172.18.0.1:62424 as mqttjs_021f7d6b (p2, c1, k60, u'username').
+1731424488: Client mqttjs_021f7d6b closed its connection.
+1731424514: New client connected from 172.18.0.1:62352 as mqttjs_cc040276 (p2, c1, k60, u'username').
+1731424518: Client mqttjs_cc040276 closed its connection.
+1731424570: New client connected from 172.18.0.1:56314 as mqttjs_068ed897 (p2, c1, k60, u'username').
+1731424578: Client mqttjs_068ed897 closed its connection.
+1731424639: New client connected from 172.18.0.1:58592 as mqttjs_086b5642 (p2, c1, k60, u'username').
+1731424648: Client mqttjs_086b5642 closed its connection.
+1731424649: New client connected from 172.18.0.1:56918 as mqttjs_991e7f85 (p2, c1, k60, u'username').
+1731424658: Client mqttjs_991e7f85 closed its connection.
+1731424730: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731424734: New client connected from 172.18.0.1:60048 as mqttjs_48b6f48b (p2, c1, k60, u'username').
+1731424734: New connection from 172.18.0.1:60836 on port 1883.
+1731424734: New client connected from 172.18.0.1:60836 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731424739: Client mqttjs_48b6f48b closed its connection.
+1731424739: New client connected from 172.18.0.1:57892 as mqttjs_f5d3e6f4 (p2, c1, k60, u'username').
+1731424749: Client mqttjs_f5d3e6f4 closed its connection.
+1731424749: New client connected from 172.18.0.1:64486 as mqttjs_f5f2282b (p2, c1, k60, u'username').
+1731424759: Client mqttjs_f5f2282b closed its connection.
+1731424759: New client connected from 172.18.0.1:57702 as mqttjs_a622b981 (p2, c1, k60, u'username').
+1731424769: Client mqttjs_a622b981 closed its connection.
+1731424770: New client connected from 172.18.0.1:58348 as mqttjs_95c6becc (p2, c1, k60, u'username').
+1731424779: Client mqttjs_95c6becc closed its connection.
+1731424781: New client connected from 172.18.0.1:64116 as mqttjs_e6fde688 (p2, c1, k60, u'username').
+1731424789: Client mqttjs_e6fde688 closed its connection.
+1731424792: New client connected from 172.18.0.1:59938 as mqttjs_0d6581dd (p2, c1, k60, u'username').
+1731424799: Client mqttjs_0d6581dd closed its connection.
+1731424805: New client connected from 172.18.0.1:59922 as mqttjs_7443685b (p2, c1, k60, u'username').
+1731424809: Client mqttjs_7443685b closed its connection.
+1731424822: New client connected from 172.18.0.1:57596 as mqttjs_0c8c91c1 (p2, c1, k60, u'username').
+1731424829: Client mqttjs_0c8c91c1 closed its connection.
+1731425115: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731425330: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731425335: New connection from 172.18.0.1:64426 on port 1883.
+1731425335: New client connected from 172.18.0.1:64426 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731425756: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731425760: New connection from 172.18.0.1:64856 on port 1883.
+1731425760: New client connected from 172.18.0.1:64856 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731425777: New client connected from 172.18.0.1:55688 as mqttjs_15164eff (p2, c1, k60, u'username').
+1731425780: Client mqttjs_15164eff closed its connection.
+1731425780: New client connected from 172.18.0.1:59684 as mqttjs_01bdafd5 (p2, c1, k60, u'username').
+1731425790: Client mqttjs_01bdafd5 closed its connection.
+1731425790: New client connected from 172.18.0.1:64456 as mqttjs_659cb570 (p2, c1, k60, u'username').
+1731425800: Client mqttjs_659cb570 closed its connection.
+1731425800: New client connected from 172.18.0.1:64098 as mqttjs_6190c7e3 (p2, c1, k60, u'username').
+1731425810: Client mqttjs_6190c7e3 closed its connection.
+1731425811: New client connected from 172.18.0.1:55302 as mqttjs_d058a4f7 (p2, c1, k60, u'username').
+1731425820: Client mqttjs_d058a4f7 closed its connection.
+1731425822: New client connected from 172.18.0.1:61104 as mqttjs_1983fecd (p2, c1, k60, u'username').
+1731425830: Client mqttjs_1983fecd closed its connection.
+1731425833: New client connected from 172.18.0.1:63716 as mqttjs_dfec7f63 (p2, c1, k60, u'username').
+1731425840: Client mqttjs_dfec7f63 closed its connection.
+1731425846: New client connected from 172.18.0.1:64050 as mqttjs_35f16899 (p2, c1, k60, u'username').
+1731425850: Client mqttjs_35f16899 closed its connection.
+1731425863: New client connected from 172.18.0.1:59778 as mqttjs_ccebaef8 (p2, c1, k60, u'username').
+1731425870: Client mqttjs_ccebaef8 closed its connection.
+1731425896: New client connected from 172.18.0.1:59090 as mqttjs_1d195b3e (p2, c1, k60, u'username').
+1731425900: Client mqttjs_1d195b3e closed its connection.
+1731425951: New client connected from 172.18.0.1:59034 as mqttjs_7ea7a926 (p2, c1, k60, u'username').
+1731425960: Client mqttjs_7ea7a926 closed its connection.
+1731425962: New client connected from 172.18.0.1:58864 as mqttjs_9090088a (p2, c1, k60, u'username').
+1731425970: Client mqttjs_9090088a closed its connection.
+1731425970: New client connected from 172.18.0.1:56442 as mqttjs_bd8ae41e (p2, c1, k60, u'username').
+1731425980: Client mqttjs_bd8ae41e closed its connection.
+1731425980: New client connected from 172.18.0.1:59288 as mqttjs_b1ae9961 (p2, c1, k60, u'username').
+1731425990: Client mqttjs_b1ae9961 closed its connection.
+1731425991: New client connected from 172.18.0.1:59756 as mqttjs_5b2bd058 (p2, c1, k60, u'username').
+1731426000: Client mqttjs_5b2bd058 closed its connection.
+1731426001: New client connected from 172.18.0.1:60152 as mqttjs_cf1682ae (p2, c1, k60, u'username').
+1731426010: Client mqttjs_cf1682ae closed its connection.
+1731426012: New client connected from 172.18.0.1:62480 as mqttjs_23ab7f78 (p2, c1, k60, u'username').
+1731426020: Client mqttjs_23ab7f78 closed its connection.
+1731426023: New client connected from 172.18.0.1:61326 as mqttjs_61fe6cc1 (p2, c1, k60, u'username').
+1731426030: Client mqttjs_61fe6cc1 closed its connection.
+1731426094: New client connected from 172.18.0.1:61076 as mqttjs_2086aa68 (p2, c1, k60, u'username').
+1731426100: Client mqttjs_2086aa68 closed its connection.
+1731426100: New client connected from 172.18.0.1:60864 as mqttjs_e78505b4 (p2, c1, k60, u'username').
+1731426106: Client mqttjs_e78505b4 closed its connection.
+1731426283: New client connected from 172.18.0.1:65514 as mqttjs_ff6c861a (p2, c1, k60, u'username').
+1731426290: Client mqttjs_ff6c861a closed its connection.
+1731426291: New client connected from 172.18.0.1:58544 as mqttjs_a1b2b8e4 (p2, c1, k60, u'username').
+1731426300: Client mqttjs_a1b2b8e4 closed its connection.
+1731426301: New client connected from 172.18.0.1:61430 as mqttjs_6fb08267 (p2, c1, k60, u'username').
+1731426310: Client mqttjs_6fb08267 closed its connection.
+1731426311: New client connected from 172.18.0.1:64234 as mqttjs_ab9f2281 (p2, c1, k60, u'username').
+1731426320: Client mqttjs_ab9f2281 closed its connection.
+1731426336: New client connected from 172.18.0.1:57684 as mqttjs_3b9519c0 (p2, c1, k60, u'username').
+1731426340: Client mqttjs_3b9519c0 closed its connection.
+1731426341: New client connected from 172.18.0.1:61496 as mqttjs_3bb7d7b7 (p2, c1, k60, u'username').
+1731426350: Client mqttjs_3bb7d7b7 closed its connection.
+1731426351: New client connected from 172.18.0.1:58890 as mqttjs_e0fd4f2b (p2, c1, k60, u'username').
+1731426360: Client mqttjs_e0fd4f2b closed its connection.
+1731426361: New client connected from 172.18.0.1:64678 as mqttjs_d5b4f3d4 (p2, c1, k60, u'username').
+1731426370: Client mqttjs_d5b4f3d4 closed its connection.
+1731426371: New client connected from 172.18.0.1:56870 as mqttjs_d5724552 (p2, c1, k60, u'username').
+1731426380: Client mqttjs_d5724552 closed its connection.
+1731426382: New client connected from 172.18.0.1:62364 as mqttjs_a4d693d3 (p2, c1, k60, u'username').
+1731426390: Client mqttjs_a4d693d3 closed its connection.
+1731426394: New client connected from 172.18.0.1:59250 as mqttjs_78ae92d1 (p2, c1, k60, u'username').
+1731426400: Client mqttjs_78ae92d1 closed its connection.
+1731426407: New client connected from 172.18.0.1:63102 as mqttjs_5a5366d6 (p2, c1, k60, u'username').
+1731426410: Client mqttjs_5a5366d6 closed its connection.
+1731426431: New client connected from 172.18.0.1:62104 as mqttjs_a083f5ff (p2, c1, k60, u'username').
+1731426440: Client mqttjs_a083f5ff closed its connection.
+1731426441: New client connected from 172.18.0.1:63114 as mqttjs_627d7126 (p2, c1, k60, u'username').
+1731426450: Client mqttjs_627d7126 closed its connection.
+1731426451: New client connected from 172.18.0.1:62976 as mqttjs_560f75dc (p2, c1, k60, u'username').
+1731426460: Client mqttjs_560f75dc closed its connection.
+1731426461: New client connected from 172.18.0.1:57702 as mqttjs_1b95cf01 (p2, c1, k60, u'username').
+1731426470: Client mqttjs_1b95cf01 closed its connection.
+1731426472: New client connected from 172.18.0.1:55890 as mqttjs_0e8300aa (p2, c1, k60, u'username').
+1731426480: Client mqttjs_0e8300aa closed its connection.
+1731426482: New client connected from 172.18.0.1:62314 as mqttjs_82ce20de (p2, c1, k60, u'username').
+1731426490: Client mqttjs_82ce20de closed its connection.
+1731426494: New client connected from 172.18.0.1:55766 as mqttjs_a4f292a0 (p2, c1, k60, u'username').
+1731426500: Client mqttjs_a4f292a0 closed its connection.
+1731426507: New client connected from 172.18.0.1:62290 as mqttjs_cb17f2d2 (p2, c1, k60, u'username').
+1731426510: Client mqttjs_cb17f2d2 closed its connection.
+1731426532: New client connected from 172.18.0.1:65366 as mqttjs_7b3537d0 (p2, c1, k60, u'username').
+1731426562: Client mqttjs_7b3537d0 closed its connection.
+1731426562: New client connected from 172.18.0.1:56244 as mqttjs_ce0669e1 (p2, c1, k60, u'username').
+1731426592: Client mqttjs_ce0669e1 closed its connection.
+1731426593: New client connected from 172.18.0.1:59182 as mqttjs_74cf6575 (p2, c1, k60, u'username').
+1731426623: Client mqttjs_74cf6575 closed its connection.
+1731426623: New client connected from 172.18.0.1:60322 as mqttjs_c55066e4 (p2, c1, k60, u'username').
+1731426653: Client mqttjs_c55066e4 closed its connection.
+1731426654: New client connected from 172.18.0.1:60582 as mqttjs_32e93953 (p2, c1, k60, u'username').
+1731426684: Client mqttjs_32e93953 closed its connection.
+1731426684: New client connected from 172.18.0.1:56774 as mqttjs_a3e3ad18 (p2, c1, k60, u'username').
+1731426714: Client mqttjs_a3e3ad18 closed its connection.
+1731426715: New client connected from 172.18.0.1:62284 as mqttjs_32794a22 (p2, c1, k60, u'username').
+1731426745: Client mqttjs_32794a22 closed its connection.
+1731426745: New client connected from 172.18.0.1:62042 as mqttjs_38c15d31 (p2, c1, k60, u'username').
+1731426775: Client mqttjs_38c15d31 closed its connection.
+1731426776: New client connected from 172.18.0.1:58148 as mqttjs_2ccb5382 (p2, c1, k60, u'username').
+1731426806: Client mqttjs_2ccb5382 closed its connection.
+1731426807: New client connected from 172.18.0.1:57324 as mqttjs_21ff1004 (p2, c1, k60, u'username').
+1731426836: Client mqttjs_21ff1004 closed its connection.
+1731426837: New client connected from 172.18.0.1:58858 as mqttjs_7911fc6d (p2, c1, k60, u'username').
+1731426867: Client mqttjs_7911fc6d closed its connection.
+1731426868: New client connected from 172.18.0.1:63532 as mqttjs_41f756ea (p2, c1, k60, u'username').
+1731426898: Client mqttjs_41f756ea closed its connection.
+1731426899: New client connected from 172.18.0.1:59480 as mqttjs_9fef5600 (p2, c1, k60, u'username').
+1731426916: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731426928: Client mqttjs_9fef5600 closed its connection.
+1731426929: New client connected from 172.18.0.1:59338 as mqttjs_8e4c5144 (p2, c1, k60, u'username').
+1731426959: Client mqttjs_8e4c5144 closed its connection.
+1731426960: New client connected from 172.18.0.1:61572 as mqttjs_c477a9e9 (p2, c1, k60, u'username').
+1731426990: Client mqttjs_c477a9e9 closed its connection.
+1731426991: New client connected from 172.18.0.1:63104 as mqttjs_531d7875 (p2, c1, k60, u'username').
+1731427020: Client mqttjs_531d7875 closed its connection.
+1731427021: New client connected from 172.18.0.1:55822 as mqttjs_8663c27c (p2, c1, k60, u'username').
+1731427041: Client mqttjs_8663c27c closed its connection.
+1731427082: New client connected from 172.18.0.1:59696 as mqttjs_5e31d917 (p2, c1, k60, u'username').
+1731427083: Client mqttjs_5e31d917 closed its connection.
+1731427084: Client <unknown> closed its connection.
+1731427084: Client <unknown> closed its connection.
+1731427085: Client <unknown> closed its connection.
+1731427086: Client <unknown> closed its connection.
+1731427088: Client <unknown> closed its connection.
+1731427092: Client <unknown> closed its connection.
+1731427099: Client <unknown> closed its connection.
+1731427112: Client <unknown> closed its connection.
+1731427138: Client <unknown> closed its connection.
+1731427155: New client connected from 172.18.0.1:57436 as mqttjs_5ccba261 (p2, c1, k60, u'username').
+1731427161: Client mqttjs_5ccba261 closed its connection.
+1731427162: New client connected from 172.18.0.1:60784 as mqttjs_d8a319bf (p2, c1, k60, u'username').
+1731427171: Client mqttjs_d8a319bf closed its connection.
+1731427172: New client connected from 172.18.0.1:57536 as mqttjs_e636e8fd (p2, c1, k60, u'username').
+1731427181: Client mqttjs_e636e8fd closed its connection.
+1731427182: New client connected from 172.18.0.1:60860 as mqttjs_5d9424ce (p2, c1, k60, u'username').
+1731427191: Client mqttjs_5d9424ce closed its connection.
+1731427192: New client connected from 172.18.0.1:57368 as mqttjs_7cf23c19 (p2, c1, k60, u'username').
+1731427201: Client mqttjs_7cf23c19 closed its connection.
+1731427219: New client connected from 172.18.0.1:56208 as mqttjs_7031f6cc (p2, c1, k60, u'username').
+1731427221: Client mqttjs_7031f6cc closed its connection.
+1731427222: New client connected from 172.18.0.1:61318 as mqttjs_97719d63 (p2, c1, k60, u'username').
+1731427231: Client mqttjs_97719d63 closed its connection.
+1731427232: New client connected from 172.18.0.1:62096 as mqttjs_8b3c2f7b (p2, c1, k60, u'username').
+1731427241: Client mqttjs_8b3c2f7b closed its connection.
+1731427242: New client connected from 172.18.0.1:62176 as mqttjs_250278cb (p2, c1, k60, u'username').
+1731427251: Client mqttjs_250278cb closed its connection.
+1731427252: New client connected from 172.18.0.1:58010 as mqttjs_0ef48f80 (p2, c1, k60, u'username').
+1731427261: Client mqttjs_0ef48f80 closed its connection.
+1731427263: New client connected from 172.18.0.1:63098 as mqttjs_e0784a99 (p2, c1, k60, u'username').
+1731427271: Client mqttjs_e0784a99 closed its connection.
+1731427275: New client connected from 172.18.0.1:62040 as mqttjs_cba51c13 (p2, c1, k60, u'username').
+1731427281: Client mqttjs_cba51c13 closed its connection.
+1731427288: New client connected from 172.18.0.1:56792 as mqttjs_b6534941 (p2, c1, k60, u'username').
+1731427291: Client mqttjs_b6534941 closed its connection.
+1731427304: New client connected from 172.18.0.1:61244 as mqttjs_f817296e (p2, c1, k60, u'username').
+1731427311: Client mqttjs_f817296e closed its connection.
+1731427337: New client connected from 172.18.0.1:58300 as mqttjs_5403e9ba (p2, c1, k60, u'username').
+1731427341: Client mqttjs_5403e9ba closed its connection.
+1731427393: New client connected from 172.18.0.1:55196 as mqttjs_75883509 (p2, c1, k60, u'username').
+1731427401: Client mqttjs_75883509 closed its connection.
+1731427454: New client connected from 172.18.0.1:55610 as mqttjs_9a4783da (p2, c1, k60, u'username').
+1731427484: Client mqttjs_9a4783da closed its connection.
+1731427485: New client connected from 172.18.0.1:57916 as mqttjs_cac5d0b9 (p2, c1, k60, u'username').
+1731427514: Client mqttjs_cac5d0b9 closed its connection.
+1731427515: New client connected from 172.18.0.1:59590 as mqttjs_0d40d64a (p2, c1, k60, u'username').
+1731427545: Client mqttjs_0d40d64a closed its connection.
+1731427546: New client connected from 172.18.0.1:60220 as mqttjs_1e30edf9 (p2, c1, k60, u'username').
+1731427575: Client mqttjs_1e30edf9 closed its connection.
+1731427587: New client connected from 172.18.0.1:62920 as mqttjs_9763fb39 (p2, c1, k60, u'username').
+1731427617: Client mqttjs_9763fb39 closed its connection.
+1731427617: New client connected from 172.18.0.1:55196 as mqttjs_bfad0d70 (p2, c1, k60, u'username').
+1731427647: Client mqttjs_bfad0d70 closed its connection.
+1731427648: New client connected from 172.18.0.1:58920 as mqttjs_bd3bc3e4 (p2, c1, k60, u'username').
+1731427678: Client mqttjs_bd3bc3e4 closed its connection.
+1731427678: New client connected from 172.18.0.1:57202 as mqttjs_3b01e18f (p2, c1, k60, u'username').
+1731427694: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731427699: New connection from 172.18.0.1:63810 on port 1883.
+1731427699: New client connected from 172.18.0.1:63810 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731427708: Client mqttjs_3b01e18f closed its connection.
+1731427709: New client connected from 172.18.0.1:63160 as mqttjs_7e1c71a2 (p2, c1, k60, u'username').
+1731427739: Client mqttjs_7e1c71a2 closed its connection.
+1731427740: New client connected from 172.18.0.1:58676 as mqttjs_4b3769cb (p2, c1, k60, u'username').
+1731427769: Client mqttjs_4b3769cb closed its connection.
+1731427782: New client connected from 172.18.0.1:64922 as mqttjs_b5bc9270 (p2, c1, k60, u'username').
+1731427812: Client mqttjs_b5bc9270 closed its connection.
+1731427812: New client connected from 172.18.0.1:57466 as mqttjs_14263618 (p2, c1, k60, u'username').
+1731427842: Client mqttjs_14263618 closed its connection.
+1731427843: New client connected from 172.18.0.1:57362 as mqttjs_e1563054 (p2, c1, k60, u'username').
+1731427873: Client mqttjs_e1563054 closed its connection.
+1731427873: New client connected from 172.18.0.1:59368 as mqttjs_ced1be39 (p2, c1, k60, u'username').
+1731427903: Client mqttjs_ced1be39 closed its connection.
+1731427904: New client connected from 172.18.0.1:60316 as mqttjs_9283a693 (p2, c1, k60, u'username').
+1731427934: Client mqttjs_9283a693 closed its connection.
+1731427934: New client connected from 172.18.0.1:64446 as mqttjs_dc603f5a (p2, c1, k60, u'username').
+1731427964: Client mqttjs_dc603f5a closed its connection.
+1731427965: New client connected from 172.18.0.1:59380 as mqttjs_83534f1a (p2, c1, k60, u'username').
+1731427995: Client mqttjs_83534f1a closed its connection.
+1731427995: New client connected from 172.18.0.1:65352 as mqttjs_040b4016 (p2, c1, k60, u'username').
+1731428025: Client mqttjs_040b4016 closed its connection.
+1731428026: New client connected from 172.18.0.1:57836 as mqttjs_64146ef1 (p2, c1, k60, u'username').
+1731428036: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731428040: New connection from 172.18.0.1:55990 on port 1883.
+1731428040: New client connected from 172.18.0.1:55990 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731428056: Client mqttjs_64146ef1 closed its connection.
+1731428072: New client connected from 172.18.0.1:58440 as mqttjs_b6c0c132 (p2, c1, k60, u'username').
+1731428102: Client mqttjs_b6c0c132 closed its connection.
+1731428103: New client connected from 172.18.0.1:59314 as mqttjs_48e26501 (p2, c1, k60, u'username').
+1731428133: Client mqttjs_48e26501 closed its connection.
+1731428133: New client connected from 172.18.0.1:60970 as mqttjs_610dd761 (p2, c1, k60, u'username').
+1731428163: Client mqttjs_610dd761 closed its connection.
+1731428164: New client connected from 172.18.0.1:62814 as mqttjs_700b4c6c (p2, c1, k60, u'username').
+1731428194: Client mqttjs_700b4c6c closed its connection.
+1731428194: New client connected from 172.18.0.1:60460 as mqttjs_a4274086 (p2, c1, k60, u'username').
+1731428224: Client mqttjs_a4274086 closed its connection.
+1731428225: New client connected from 172.18.0.1:60892 as mqttjs_6dd0c387 (p2, c1, k60, u'username').
+1731428247: Client mqttjs_6dd0c387 closed its connection.
+1731428265: New client connected from 172.18.0.1:57442 as mqttjs_3b97b94e (p2, c1, k60, u'username').
+1731428295: Client mqttjs_3b97b94e closed its connection.
+1731428295: New client connected from 172.18.0.1:62296 as mqttjs_29354edb (p2, c1, k60, u'username').
+1731428325: Client mqttjs_29354edb closed its connection.
+1731428326: New client connected from 172.18.0.1:61782 as mqttjs_3ccf3138 (p2, c1, k60, u'username').
+1731435527: mosquitto version 2.0.20 starting
+1731435527: Config loaded from /mosquitto/config/mosquitto.conf.
+1731435527: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731435527: Opening ipv4 listen socket on port 1883.
+1731435527: Opening websockets listen socket on port 9001.
+1731435527: mosquitto version 2.0.20 running
+1731435554: New client connected from 172.18.0.1:64532 as mqttjs_fe17a8ad (p2, c1, k60, u'username').
+1731435555: Client mqttjs_fe17a8ad closed its connection.
+1731435555: Client <unknown> closed its connection.
+1731435556: Client <unknown> closed its connection.
+1731435557: Client <unknown> closed its connection.
+1731435558: Client <unknown> closed its connection.
+1731435593: New connection from 172.18.0.1:63244 on port 1883.
+1731435593: New client connected from 172.18.0.1:63244 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731435628: Client mqttx_4c2f16e0 disconnected.
+1731435633: New connection from 172.18.0.1:60114 on port 1883.
+1731435633: New client connected from 172.18.0.1:60114 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731435690: Client mqttx_4c2f16e0 disconnected.
+1731435691: New connection from 172.18.0.1:58514 on port 1883.
+1731435691: New client connected from 172.18.0.1:58514 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731435787: New connection from 172.18.0.1:62958 on port 1883.
+1731435787: Client <unknown> disconnected due to protocol error.
+1731435787: New connection from 172.18.0.1:62964 on port 1883.
+1731435788: Client <unknown> disconnected due to protocol error.
+1731435788: New connection from 172.18.0.1:56546 on port 1883.
+1731435788: Client <unknown> disconnected due to protocol error.
+1731435788: New connection from 172.18.0.1:56556 on port 1883.
+1731435789: Client <unknown> closed its connection.
+1731435886: mosquitto version 2.0.20 terminating
+1731435886: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731435968: mosquitto version 2.0.20 starting
+1731435968: Config loaded from /mosquitto/config/mosquitto.conf.
+1731435968: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731435968: Opening ipv4 listen socket on port 1883.
+1731435968: Opening websockets listen socket on port 9001.
+1731435968: mosquitto version 2.0.20 running
+1731435969: New connection from 172.19.0.1:62402 on port 1883.
+1731435969: New client connected from 172.19.0.1:62402 as mqttjs_3192dbc5 (p2, c1, k60, u'username').
+1731435976: New connection from 172.19.0.1:62416 on port 1883.
+1731435976: New client connected from 172.19.0.1:62416 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731436390: New client connected from 172.19.0.1:58258 as mqttjs_05bdbd6c (p2, c1, k60, u'username').
+1731436391: Client mqttjs_05bdbd6c closed its connection.
+1731436392: Client <unknown> closed its connection.
+1731436392: Client <unknown> closed its connection.
+1731436393: Client <unknown> closed its connection.
+1731436394: Client <unknown> closed its connection.
+1731436396: Client <unknown> closed its connection.
+1731436400: Client <unknown> closed its connection.
+1731436407: Client <unknown> closed its connection.
+1731436420: Client <unknown> closed its connection.
+1731436446: Client <unknown> closed its connection.
+1731436496: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731436497: New client connected from 172.19.0.1:58698 as mqttjs_a5dda420 (p2, c1, k60, u'username').
+1731436497: Client mqttjs_a5dda420 closed its connection.
+1731436501: New connection from 172.19.0.1:55200 on port 1883.
+1731436501: New client connected from 172.19.0.1:55200 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731436558: Client <unknown> closed its connection.
+1731436618: Client <unknown> closed its connection.
+1731436679: Client <unknown> closed its connection.
+1731436739: Client <unknown> closed its connection.
+1731436799: Client <unknown> closed its connection.
+1731436838: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731436843: New connection from 172.19.0.1:63314 on port 1883.
+1731436843: New client connected from 172.19.0.1:63314 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731436860: Client <unknown> closed its connection.
+1731436920: Client <unknown> closed its connection.
+1731436981: Client <unknown> closed its connection.
+1731437041: Client <unknown> closed its connection.
+1731437101: Client <unknown> closed its connection.
+1731437162: Client <unknown> closed its connection.
+1731437222: Client <unknown> closed its connection.
+1731437283: Client <unknown> closed its connection.
+1731437312: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731437317: New connection from 172.19.0.1:63302 on port 1883.
+1731437317: New client connected from 172.19.0.1:63302 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731437343: Client <unknown> closed its connection.
+1731437403: Client <unknown> closed its connection.
+1731437464: Client <unknown> closed its connection.
+1731437524: Client <unknown> closed its connection.
+1731437584: Client <unknown> closed its connection.
+1731437645: Client <unknown> closed its connection.
+1731437705: Client <unknown> closed its connection.
+1731437766: Client <unknown> closed its connection.
+1731437769: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731437792: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731437796: New connection from 172.19.0.1:56956 on port 1883.
+1731437796: New client connected from 172.19.0.1:56956 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731437826: Client <unknown> closed its connection.
+1731437886: Client <unknown> closed its connection.
+1731437947: Client <unknown> closed its connection.
+1731439000: Client mqttjs_3192dbc5 has exceeded timeout, disconnecting.
+1731439000: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731439006: New connection from 172.19.0.1:55318 on port 1883.
+1731439006: New client connected from 172.19.0.1:55318 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731439219: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731439224: New connection from 172.19.0.1:64490 on port 1883.
+1731439224: New client connected from 172.19.0.1:64490 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731439232: New connection from 172.19.0.1:64218 on port 1883.
+1731439232: New client connected from 172.19.0.1:64218 as mqttjs_3192dbc5 (p2, c1, k60, u'username').
+1731439269: Client <unknown> closed its connection.
+1731439330: Client <unknown> closed its connection.
+1731439378: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731439382: New connection from 172.19.0.1:60630 on port 1883.
+1731439382: New client connected from 172.19.0.1:60630 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731439790: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731439790: Client mqttjs_3192dbc5 has exceeded timeout, disconnecting.
+1731439790: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731439795: New connection from 172.19.0.1:64720 on port 1883.
+1731439795: New client connected from 172.19.0.1:64720 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731439798: New connection from 172.19.0.1:64726 on port 1883.
+1731439798: New client connected from 172.19.0.1:64726 as mqttjs_3192dbc5 (p2, c1, k60, u'username').
+1731439811: Client <unknown> closed its connection.
+1731439871: Client <unknown> closed its connection.
+1731439955: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731439960: New connection from 172.19.0.1:58870 on port 1883.
+1731439960: New client connected from 172.19.0.1:58870 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731439985: Client mqttjs_3192dbc5 has exceeded timeout, disconnecting.
+1731440083: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731440088: New connection from 172.19.0.1:59616 on port 1883.
+1731440088: New client connected from 172.19.0.1:59616 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731440107: New connection from 172.19.0.1:60168 on port 1883.
+1731440107: New client connected from 172.19.0.1:60168 as mqttjs_3192dbc5 (p2, c1, k60, u'username').
+1731440184: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731440280: Client mqttjs_3192dbc5 has exceeded timeout, disconnecting.
+1731440285: New connection from 172.19.0.1:57136 on port 1883.
+1731440285: New client connected from 172.19.0.1:57136 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731440403: Client mqttx_4c2f16e0 has exceeded timeout, disconnecting.
+1731442628: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731445735: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731447895: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731450313: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731452529: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731454647: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731458263: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731460093: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731462553: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731462636: mosquitto version 2.0.20 terminating
+1731462636: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731463782: mosquitto version 2.0.20 starting
+1731463782: Config loaded from /mosquitto/config/mosquitto.conf.
+1731463782: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731463782: Opening ipv4 listen socket on port 1883.
+1731463782: Opening websockets listen socket on port 9001.
+1731463782: mosquitto version 2.0.20 running
+1731464220: mosquitto version 2.0.20 terminating
+1731464220: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731464255: mosquitto version 2.0.20 starting
+1731464255: Config loaded from /mosquitto/config/mosquitto.conf.
+1731464255: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1731464255: Opening ipv4 listen socket on port 1883.
+1731464255: Opening websockets listen socket on port 9001.
+1731464255: mosquitto version 2.0.20 running
+1731464263: New connection from 172.18.0.1:61338 on port 1883.
+1731464263: New client connected from 172.18.0.1:61338 as mqttjs_1d0f356d (p2, c1, k60, u'username').
+1731464375: New connection from 172.18.0.1:62850 on port 1883.
+1731464375: New client connected from 172.18.0.1:62850 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731464617: Client mqttx_4c2f16e0 disconnected.
+1731465145: New connection from 172.18.0.1:58222 on port 1883.
+1731465146: New client connected from 172.18.0.1:58222 as mqttx_4c2f16e0 (p5, c1, k60, u'username').
+1731465494: New client connected from 172.18.0.1:65028 as mqttjs_a0e4f87f (p2, c1, k60, u'username').
+1731465559: New client connected from 172.18.0.1:55304 as mqttjs_a130c847 (p2, c1, k60, u'username').
+1731465694: Client mqttjs_a130c847 closed its connection.
+1731465957: New client connected from 172.18.0.1:64302 as mqttjs_b88f94e7 (p2, c1, k60, u'username').
+1731466056: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1731466136: Client mqttjs_b88f94e7 closed its connection.
+1731466170: Client mqttjs_a0e4f87f closed its connection.
+1731466185: Client mqttjs_1d0f356d closed its connection.
